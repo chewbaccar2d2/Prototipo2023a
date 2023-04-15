@@ -8,7 +8,6 @@ import android.widget.TextView;
 public class MainActivity extends AppCompatActivity {
     private TextView tvNome;
     private TextView tvFabio;
-    private TextView tvLuiz288;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
